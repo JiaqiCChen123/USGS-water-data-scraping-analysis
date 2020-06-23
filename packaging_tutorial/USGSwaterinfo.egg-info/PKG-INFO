@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: USGSwaterinfo
+Version: 0.0.1
+Summary: This package is used for extracting water resource data from USGS
+Home-page: https://github.com/JiaqiCChen123/USGS-water-data-scraping-analysis
+Author: Jiaqi Chen
+Author-email: jiaqichen321@gmail.com
+License: UNKNOWN
+Description: # This package is used for extracting water resource data from USGS (https://waterservices.usgs.gov/rest/IV-Service.html)
+        
+        ## The function get_data(state, start_date=None, end_date=None, site_type=None, status='all') requires input of state, date nad site information.
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown

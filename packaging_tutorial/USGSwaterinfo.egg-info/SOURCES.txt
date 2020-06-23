@@ -1,0 +1,8 @@
+README.md
+setup.py
+USGSwaterinfo/__init__.py
+USGSwaterinfo.egg-info/PKG-INFO
+USGSwaterinfo.egg-info/SOURCES.txt
+USGSwaterinfo.egg-info/dependency_links.txt
+USGSwaterinfo.egg-info/requires.txt
+USGSwaterinfo.egg-info/top_level.txt
